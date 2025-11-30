@@ -45,7 +45,7 @@ A language by Jessica Emberly.
 
 °•°•°•°° = L
 
-°•°•°•°•°•°• = M
+°•°•°•°•°•°•• = M
 
 °•°•°•°•° = N
 
