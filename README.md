@@ -2,7 +2,8 @@
 
 A language by Jessica Emberly.
 
-```°•° = 1
+```
+°•° = 1
 
 °•°•° = 2
 
