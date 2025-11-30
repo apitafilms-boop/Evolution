@@ -1,7 +1,8 @@
-# Evolution
+<img width="auto" height="auto" alt="EV°luti°n_20251130_034645_0000" src="https://github.com/user-attachments/assets/b2f61972-9196-48f4-978a-5bb6c016ab01" />
+
 A language by Jessica Emberly.
 
-°•° = 1
+```°•° = 1
 
 °•°•° = 2
 
@@ -67,4 +68,4 @@ A language by Jessica Emberly.
 
 •°•°•°•° = Y
 
-•••• = Z
+•••• = Z```
