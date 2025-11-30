@@ -65,7 +65,7 @@ A language by Jessica Emberly.
 
 •°•°•° = V
 
-•••°
+•••° = W
 
 °•°•°•°•°•°° = X
 
