@@ -2,6 +2,13 @@
 
 A language by Jessica Emberly.
 
+## Quick guide
+A few things to know:
+* '•' is the points of a letter
+* '°' is a stylistic choice
+> Some letters will have an extra • or °.
+> This will help void off confusion.
+
 ```
 °•° = 1
 
