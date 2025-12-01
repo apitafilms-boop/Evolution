@@ -79,3 +79,6 @@ A few things to know:
 •°•°•°•° = Y
 
 •••• = Z
+```
+
+> This language can and probably will be converted into 1's and 0's.
