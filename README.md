@@ -85,7 +85,7 @@ A few things to know:
 ```
 
 ## Evolve
-> This is Evolve which is the number's only version of Evolution.
+> This is Evolve, which is the number's only version of Evolution.
 
 ```
 0 = 0
