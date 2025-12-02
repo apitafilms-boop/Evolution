@@ -10,6 +10,8 @@ A few things to know:
 > This will help void off confusion.
 
 ```
+° = 0
+
 °•° = 1
 
 °•°•° = 2
@@ -56,7 +58,7 @@ A few things to know:
 
 °•°•°•°•° = N
 
-° = O
+°° = O
 
 °•°•°•° = P
 
